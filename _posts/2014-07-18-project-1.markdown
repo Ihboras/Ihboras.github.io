@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: pokemon logo.png
+img: Pokemon_Logo.png
 alt: image-alt
 project-date: June 2024
 client: Start Bootstrap
