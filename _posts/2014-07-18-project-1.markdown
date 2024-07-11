@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: Pokemon_Logo.png
+date: 2024-07-01
+img: Anime Logo.png
 alt: image-alt
 project-date: June 2024
 client: Start Bootstrap
 category: Web Development
-description: This project involves analysing the charectaristics of Pokemon to obtain meaningful data.
+description: This project involves multiple linear regression to predict our dependant variable of "Score".
 ---
