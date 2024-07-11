@@ -25,10 +25,10 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ac0000 #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 4a4a4a #FD6E8A
-  secondary-dark: 313131 #A2122F
+  primary: ac0000 #9D0000
+  primary-rgb: "196,0,0" #"235,0,0"
+  secondary: 4a4a4a #DF032E
+  secondary-dark: 313131 #AC0000
 
 # Footer settings
 #footer:
