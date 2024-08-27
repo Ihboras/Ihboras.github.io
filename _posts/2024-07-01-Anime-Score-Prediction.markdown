@@ -19,5 +19,5 @@ description: >
   The Gradient Boosting Regressor provided the best predictive performance, effectively handling non-linear relationships between features and the "Score." 
   Ridge and Lasso regression models were also effective, with Lasso offering the additional benefit of feature selection.
   
-link: https://colab.research.google.com/gist/Ihboras/3b4e6f75a97de2dae59f7a63cbb0975c/anime-score-prediction.ipynb
+link: https://colab.research.google.com/gist/Ihboras/69f7013201d27270f915ab3568b3bad1/anime-score-prediction.ipynb
 ---
