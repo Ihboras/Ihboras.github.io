@@ -4,8 +4,7 @@ modal-id: 1
 date: 2024-07-01
 img: Anime Logo.png
 alt: A collage of anime characters used as a logo
-overview: This project aims to predict target variable anime "Score" from features using various machine learning models.
-description: 
+description: This project aims to predict target variable anime "Score" from features using various machine learning models.
 # Anime Score Prediction Project
 
 This project explores the prediction of anime "Scores" using a dataset from [MyAnimeList](https://myanimelist.net/), which was uploaded to Kaggle. The dataset includes various features about anime, such as genres, episodes, ratings, and more.
