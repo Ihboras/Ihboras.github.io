@@ -9,7 +9,7 @@ Anime Score Prediction Project
 This project explores the prediction of anime "Scores" using a dataset from [MyAnimeList](https://myanimelist.net/), which was uploaded to Kaggle. The dataset includes various features about anime, such as genres, episodes, ratings, and more. 
 Objective The goal of this project is to determine which features are most predictive of the "Score" and to identify the machine learning model that provides the best performance.
 Methodology 
-Multiple regression models were tested, including: 
+Multiple Regression Models
 **Linear Regression**: A basic model to establish a baseline. 
 **Ridge Regression**: A regularized linear model to handle multicollinearity. 
 **Lasso Regression**: A model that performs feature selection by driving some coefficients to zero. 
