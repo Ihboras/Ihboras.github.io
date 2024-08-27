@@ -4,7 +4,7 @@ modal-id: 1
 date: 2024-07-01
 img: Anime Logo.png
 alt: A collage of anime characters used as a logo
-description: This project aims to predict target vairable anime "Score" from feautures using various machine learning models.
+description: This project aims to predict target vairable anime "Score" from features using various machine learning models.
 ---
 
 # Anime Score Prediction Project
