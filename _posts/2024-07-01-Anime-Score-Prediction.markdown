@@ -4,9 +4,8 @@ modal-id: 1
 date: 2024-07-01
 img: Anime Logo.png
 alt: A collage of anime characters used as a logo
-description: This project aims to predict target vairable anime "Score" from features using various machine learning models.
----
-
+overview: This project aims to predict target variable anime "Score" from features using various machine learning models.
+description: 
 # Anime Score Prediction Project
 
 This project explores the prediction of anime "Scores" using a dataset from [MyAnimeList](https://myanimelist.net/), which was uploaded to Kaggle. The dataset includes various features about anime, such as genres, episodes, ratings, and more.
@@ -31,3 +30,5 @@ The models were evaluated based on the Root Mean Squared Error (RMSE) on a test 
 ## Conclusion
 
 The Gradient Boosting Regressor provided the best predictive performance, effectively handling non-linear relationships between features and the "Score." Ridge and Lasso regression models were also effective, with Lasso offering the additional benefit of feature selection.
+
+---
